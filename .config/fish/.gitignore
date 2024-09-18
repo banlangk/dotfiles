@@ -1,0 +1,9 @@
+*
+
+!.gitignore
+!aliases.fish
+!config.fish
+!env.fish
+
+!completions/
+!completions/**
