@@ -1,5 +1,9 @@
-default_layout "compact"
+// default_layout "compact"
 
 default_shell "fish"
+
+pane_frames false
+
+scrollback_editor "/usr/bin/helix"
 
 theme "catppuccin-latte"
